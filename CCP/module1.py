@@ -1,3 +1,4 @@
+# code
 def welcome(fname,lname):
     print("First Name= ",fname)
     print("Last Name= ",lname)

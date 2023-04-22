@@ -21,7 +21,9 @@
 #not in
 
 #conditional operators
-#using simple if
+# using simple if
+# max and min using simple if
+
 # a =int(input("Enter value: "))
 # if a>0:
 #     print("Given number is +ve")
